@@ -1,0 +1,20 @@
+CentralMalawi_Historical : mean monthly rainfall data (January - December)
+     3  : Monthly records (1=daily, 2=10-daily and 3=monthly data)
+     1  : First day of record (1, 11 or 21 for 10-day or 1 for months)
+     1  : First month of record
+  1901  : First year of record (1901 if not linked to a specific year)
+
+  Total Rain (mm)
+=======================
+     249.8
+     220.3
+     196.0
+      83.2
+      19.0
+       6.4
+       5.8
+       3.5
+       3.6
+      16.1
+      74.6
+     202.9
